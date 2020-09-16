@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
 ## Development server
-Run `ng serve --open`
+***Run `ng serve --open`
 The ng serve command builds the app, starts the development server, watches the source files, and rebuilds the app as you make changes to those files.
 
 The --open flag opens a browser to http://localhost:4200/.
